@@ -10,7 +10,7 @@ export class ContadorComponent implements OnInit {
   numero:number=10;
   base:number=5;
 
-
+  
   constructor() { }
 
   ngOnInit(): void {
